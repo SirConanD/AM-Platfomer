@@ -107,7 +107,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\gfet1302\Documents\Visual Studio 2010\Projects\AM Platfomer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Idle.xnb</Output>
-      <Time>2015-05-19T09:14:15.8256415-06:00</Time>
+      <Time>2015-05-19T09:36:12.9537104-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\Jump.png</Source>
@@ -116,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\gfet1302\Documents\Visual Studio 2010\Projects\AM Platfomer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Jump.xnb</Output>
-      <Time>2015-05-19T07:52:16.4486198-06:00</Time>
+      <Time>2015-05-27T09:30:42.9714367-06:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\Run.png</Source>
@@ -125,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\gfet1302\Documents\Visual Studio 2010\Projects\AM Platfomer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Run.xnb</Output>
-      <Time>2015-05-19T07:52:16.4642214-06:00</Time>
+      <Time>2015-05-27T08:47:58.8037367-06:00</Time>
     </Item>
     <Item>
       <Source>Tiles\BlockA0.png</Source>
